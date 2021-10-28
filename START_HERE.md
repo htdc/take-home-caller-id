@@ -1,0 +1,39 @@
+# START HERE!
+
+## The take home challenge
+
+This repo is desiged for a take home challenge for candidates for Security roles here at HotDoc. It is a dummy repo simulating our "Caller ID" feature and is used to help facilitate a security review of production software. You can assume that threat modelling and security overview happened at the start of the project, but, has been lost!
+
+## What do I need to do?
+
+At the end of the challenge, you should submit (TODO: KOOPS - HOW?)
+
+- THREATS.md
+  A sample threat modelling report, that has been briefly started by a member of the team, but you have been left to finish it off. You should fill out all the sections marked TODO.
+
+- A brief analysis of the project's security posture
+  Look through the project repo as a whole, and evaluate the current security posture.
+  TODO: KOOPS - What format do you want this in? How do we explain "Write some stuff about the bad dependencies etc" better?
+
+- TODO: KOOPS - WHAT ELSE?
+
+## What is included?
+
+This repo contains:
+
+- README.md - a brief intro to the feature, and an overview of the components involved
+- THREATS.md - a partially completed Threat Modelling report, with sections to be filled out by the candidate
+- package.json - includes the dependencies this application depends on
+
+## What is NOT included?
+
+The actual source code of the Caller ID service is not important here (and is actually part of the Rails monolith) - so it has been omitted here, in order to keep the scope focussed.
+
+## Where can I get help?
+
+You should have received a shared Slack channel in which to ask any questions you may have. During work hours, you can expect a response within an hour.
+
+## How long should it all take?
+
+TODO: KOOPS - is this the right amount of time?
+The whole exercise should take about two to three hours
