@@ -29,3 +29,6 @@ The web app used by Clinics to configure HotDoc. For Caller ID, it can be used t
 - The Clinic's Phone System
 
 Reponsible for receiving phone calls, and, once configured, sends out Webhook requests to the Caller ID service when the phone rings.
+
+## Diagram
+![image](https://user-images.githubusercontent.com/5941208/139188485-f591f49a-a71b-4611-b3a7-991da97cc677.png)
