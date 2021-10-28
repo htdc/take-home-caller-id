@@ -1,0 +1,14 @@
+{
+  "name": "take-home-caller-id",
+  "version": "1.0.0",
+  "description": "A take home project based upon the Caller ID feature and Security thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chrisj@hotdoc.com.au,fallie@hotdoc.com.au",
+  "dependencies": {
+    "caller-id": "^0.1.0",
+    "pac-resolver": "^4.2.0"
+  }
+}
