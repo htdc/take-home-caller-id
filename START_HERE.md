@@ -6,16 +6,13 @@ This repo is desiged for a take home challenge for candidates for Security roles
 
 ## What do I need to do?
 
-At the end of the challenge, you should submit (TODO: KOOPS - HOW?)
+At the end of the challenge, you should submit:
 
 - THREATS.md
   A sample threat modelling report, that has been briefly started by a member of the team, but you have been left to finish it off. You should fill out all the sections marked TODO.
 
 - A brief analysis of the project's security posture
   Look through the project repo as a whole, and evaluate the current security posture.
-  TODO: KOOPS - What format do you want this in? How do we explain "Write some stuff about the bad dependencies etc" better?
-
-- TODO: KOOPS - WHAT ELSE?
 
 ## What is included?
 
@@ -33,7 +30,8 @@ The actual source code of the Caller ID service is not important here (and is ac
 
 You should have received a shared Slack channel in which to ask any questions you may have. During work hours, you can expect a response within an hour.
 
+We are primarily interested in your communication skills and how you approach threat modelling in general. There are no 'right' answers or 'gotcha' questions to this process. Feel free to ask us questions!
+
 ## How long should it all take?
 
-TODO: KOOPS - is this the right amount of time?
-The whole exercise should take about two to three hours
+The whole exercise should not take more than 2 hours of your time in total. We're happy for you to break this up over a period of 4 - 5 days, enough time for you to check in with us on Slack and clarify any of your own questions you have.
