@@ -11,7 +11,7 @@ At the end of the challenge, you should submit:
 - THREATS.md
   A sample threat modelling report, that has been briefly started by a member of the team, but you have been left to finish it off. You should fill out all the sections marked TODO.
 
-- A brief analysis of the project's security posture
+- A brief analysis of the project's security posture.
   Look through the project repo as a whole, and evaluate the current security posture.
 
 ## What is included?
