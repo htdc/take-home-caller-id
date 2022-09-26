@@ -9,6 +9,6 @@
   "author": "chrisj@hotdoc.com.au,fallie@hotdoc.com.au",
   "dependencies": {
     "caller-id": "^0.1.0",
-    "pac-resolver": "^4.2.0"
+    "pac-resolver": "^5.0.1"
   }
 }
